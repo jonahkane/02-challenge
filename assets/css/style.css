@@ -29,7 +29,7 @@ li {
     display: inline-block;
 }
 
-#seo {
+.header h1 .seo{
     color: #d9dcd6;
 }
 
